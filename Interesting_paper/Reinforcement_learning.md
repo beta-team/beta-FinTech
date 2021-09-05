@@ -1,1 +1,0 @@
-# NIPS2020: FinRL: A Deep Reinforcement Learning Library for Quantitative Finance
