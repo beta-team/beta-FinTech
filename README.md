@@ -20,3 +20,6 @@ This is a reposiory to share interesting FinTech paper, Github projects and rese
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI papers with Reinforcement Learning
 
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI for Risk Accessment
+
+## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI with Quantum Computing
+1. **Quantum Machine Learning for Finance.**
