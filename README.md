@@ -11,6 +11,7 @@ This is a reposiory to share interesting FinTech paper, Github projects and rese
 
 1. **Finbert: Financial sentiment analysis with pre-trained language models.**
 *Dogu Araci*  Thesis of University of Amsterdam. 2019. [[paper]](https://arxiv.org/abs/1908.10063)
+**[[Github code]](https://huggingface.co/ProsusAI/finbert)**
 2. **FinBERT: A Pre-trained Financial Language Representation Model for Financial Text Mining.**
 *Zhuang Liu,Degen Huang, Kaiyu Huang,Zhuang Li,Jun Zhao*. IJCAI 2020, [[paper]](https://www.researchgate.net/profile/Kei-Nakagawa-3/publication/342797873_RM-CVaR_Regularized_Multiple_b-CVaR_Portfolio/links/5f4ee78d92851c250b88bc32/RM-CVaR-Regularized-Multiple-b-CVaR-Portfolio.pdf)
 3. **Text Mining of Stocktwits Data for Predicting Stock Prices.**
