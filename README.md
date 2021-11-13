@@ -16,7 +16,8 @@ This is a reposiory to share interesting FinTech paper, Github projects and rese
 *Zhuang Liu,Degen Huang, Kaiyu Huang,Zhuang Li,Jun Zhao*. IJCAI 2020, [[paper]](https://www.researchgate.net/profile/Kei-Nakagawa-3/publication/342797873_RM-CVaR_Regularized_Multiple_b-CVaR_Portfolio/links/5f4ee78d92851c250b88bc32/RM-CVaR-Regularized-Multiple-b-CVaR-Portfolio.pdf)
 3. **Text Mining of Stocktwits Data for Predicting Stock Prices.**
 *Mukul Jaggi, Priyanka Mandal, Shreya Narang, Usman Naseem and Matloob Khushi*.  Applied System Innovation. 2021 [[paper]](https://www.mdpi.com/2571-5577/4/1/13/pdf)
-4. 
+4. **Mining Evidences for Concept Stock Recommendation.**
+*Qi Liu and Yue Zhang*. NAACL 2018. [[paper]](https://aclanthology.org/N18-1191.pdf)
 
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI papers with Reinforcement Learning
 
