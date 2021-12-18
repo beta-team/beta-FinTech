@@ -21,7 +21,7 @@ This is a reposiory to share interesting FinTech paper, Github projects and rese
 5. **Sentiment analysis on social media for stock movement prediction.**
 *Thien Hai Nguyen et al*. Expert Systems With Applications 2015. [[paper]](https://reader.elsevier.com/reader/sd/pii/S0957417415005126?token=A09203C2E671D716FFCA18F746BEAE3A8B8B010525F0F2678106E90A84A074E2A8E116D5470588C309AD60C13445D5DB&originRegion=eu-west-1&originCreation=20211216224703)
 
-## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI papers with Reinforcement Learning
+## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI papers with Deep Learning
 
 1. **FinRL: Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance.**
 *Xiao-Yang Liu et al*  SSRN. 2021. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3955949)
