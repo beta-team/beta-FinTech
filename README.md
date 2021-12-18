@@ -25,6 +25,8 @@ This is a reposiory to share interesting FinTech paper, Github projects and rese
 
 1. **FinRL: Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance.**
 *Xiao-Yang Liu et al*  SSRN. 2021. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3955949)
+2. **Enhancing Stock Movement Prediction with Adversarial Training.**
+*Fuli Feng et al*  IJCAI. 2019. [[paper]](https://arxiv.org/pdf/1810.09936.pdf)
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI for Risk Accessment
 
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI with Quantum Computing
