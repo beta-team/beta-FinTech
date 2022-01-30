@@ -30,7 +30,7 @@ This is a reposiory to share interesting FinTech paper, Github projects and rese
 3. **FinRL-Podracer: High Performance and Scalable Deep Reinforcement Learning for Quantitative Finance.**
 *Zechu Li et al*  ACM International Conference on AI in Finance. 2021. [[paper]](https://arxiv.org/pdf/2111.05188.pdf)
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI for Risk Accessment
-
+1. **Multimodal deep learning for short-term stock volatility prediction.** [[paper]](https://arxiv.org/pdf/1812.10479.pdf)
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Finance AI with Quantum Computing
 1. **Quantum Machine Learning for Finance.** (From JPMorgan Future Lab) [[paper]](https://arxiv.org/pdf/2109.04298v1.pdf)
 
