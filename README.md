@@ -40,3 +40,4 @@ This is a reposiory to share interesting FinTech paper, Github projects and rese
 
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Econometric with Machine Learning
 1. **Machine Learning: An Applied Econometric Approach.**  *Sendhil Mullainathan and Jann Spiess*. [[paper]](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.87)
+2. **Qlib : An AI-oriented Quantitative Investment Platform.** (From Microsoft Research) *Xiao Yang et. al.* [[paper]](https://arxiv.org/pdf/2009.11189.pdf); [[Github]](https://github.com/microsoft/qlib)
